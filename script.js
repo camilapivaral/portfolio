@@ -1,4 +1,4 @@
-// Movimiento del cursor
+// Movimiento del cursor 
 const cursor = document.querySelector('.cursor');
 const follower = document.querySelector('.cursor-follower');
 
